@@ -3,7 +3,7 @@
 - 👀 I joined the company in 2019 and am working on system maintenance.
 - 🌱 I’m currently studying Java and Python.
 - 💞️ I graduated from Pusan National University majoring in industrial engineering.
-- 📫 How to reach me : bkn02329@n2ver.com
+- 📫 How to reach me : bkn02329@naver.com
 
 <!---
 solnip/solnip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
